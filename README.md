@@ -57,7 +57,7 @@ This Flask web application allows users to upload images and remove their backgr
 ## File Structure
 
 ```
-BG_Remover_Web.app/
+BG_Remover_webApp/
 │
 ├── app.py                  # Main application file
 ├── requirements.txt        # List of required packages
