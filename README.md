@@ -19,7 +19,7 @@ This Flask web application allows users to upload images and remove their backgr
 
 1. **Clone the repository:**
    ```bash
-   
+   https://github.com/khushi123q/BG_Remover_webApp.git
    cd BG_Remover_Web.app
    ```
 
